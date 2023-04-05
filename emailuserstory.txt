@@ -1,0 +1,49 @@
+
+1.As an admin :
+            I want to login to my account with a valid email id and password
+so that I can monitor and manage the entire admin dashboard
+
+Acceptance criteria :
+* Ensure that the user is able to login with valid email id and password
+* Incase the student enters an invalid username or password INVALID CREDENTIALS pop up message should be displayed
+* Incase if the user enters wrong format of password , it should display the invalid password message
+* Ensure that the email id and password textfield shouldn’t be left empty as they are mandatory fields.
+
+
+2.As an admin:
+     I want to authorize the Search a mail of the email
+
+Acceptance criteria :
+ *Ensure that the user is able to login with valid email id and password
+ *check the search box available in the dashboard 
+ *Ensure that the user is able to search mail in the search box then the mail is display the body
+ *Ensure that the user is able to search mail in the search box then the user is  NOTFOUND displayed.
+
+3.As an admin:
+       I want to authorize the Compose a mail of the email
+
+Acceptance criteria :
+ *Ensure that the user is able to login with valid email id and password
+ *check the compose icon available in the left corner it is clickable.
+ *Ensure the compose mail consist of To and Subject
+ *Admin should enter the vaild email to send the mail And along with a  subject
+ *Ensure the admin is able to send a mail by clicking send button.
+
+4.As an admin:
+           I want to authorize the sent items of the email
+
+Acceptance criteria :
+ *Ensure that the user is able to login with valid email id and password.
+ *check the sent item icon available in the left cornor 
+ *check sent item icon is also clickable and display the items
+ 
+
+5.As an admin:
+       I want to authorize the Delete the mail of the email
+
+Acceptance criteria :
+ *Ensure that the user is able to login with valid email id and password.
+ *Ensure that admin selects the mail that is to be deleted
+ *Then click delete option to delete the mail
+ *Check if the mail is deleted once delete option is clicked
+ 
